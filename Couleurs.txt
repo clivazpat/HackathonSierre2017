@@ -1,0 +1,7 @@
+Barre sup DarkPrimary :  #0097A7
+Color main PrimaryColor: #00BCD4
+Boutons : #FF5722
+Zone de text : #FFFFFF
+Text text general: #212121
+Secondaire text light: #757575
+text tertiaire plus clair: #BDBDBD
